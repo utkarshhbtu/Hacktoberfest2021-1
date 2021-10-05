@@ -53,6 +53,7 @@
 | Pajri Zahrawaani Ahmad | [pforpajri](https://github.com/pforpajri) |
 | Adi Purnomo | [medival](https://github.com/medival) |
 | Muhammad Syahrur Rahmansyah | [JuniorXcoder](https://github.com/JuniorXcoder) |
+| Agung Jaya | [Jay](https://github.com/agungjsp) |
 
 
 
