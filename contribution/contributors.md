@@ -51,6 +51,7 @@
 | Md Udoy Hasan Orko | [udoyhasan](https://github.com/udoyhasan) |
 | Pajri Zahrawaani Ahmad | [pforpajri](https://github.com/pforpajri) |
 | Adi Purnomo | [medival](https://github.com/medival) |
+| Muhammad Syahrur Rahmansyah | [JuniorXcoder](https://github.com/JuniorXcoder) |
 
 
 
