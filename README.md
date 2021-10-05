@@ -41,7 +41,7 @@ Jika Anda belum pernah berkontribusi ke open source sebelumnya, ini adalah waktu
 ---
 # Kontributor List
 <a href="https://github.com/faiznurullah/hacktoberfest2021/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=faiznurullah/hacktoberfest2021" />
+  <img src="https://contrib.rocks/image?max=1000&repo=faiznurullah/hacktoberfest2021" />
 </a>
   
   ---
