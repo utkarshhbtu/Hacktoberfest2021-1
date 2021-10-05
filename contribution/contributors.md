@@ -48,7 +48,7 @@
 | Kevin Rivaldo   | [rivaldo15](https://github.com/rivaldo15) |
 | Ichsan Wahyu Pradana   | [prdnaw](https://github.com/prdnaw) |
 | Md Udoy Hasan Orko | [udoyhasan](https://github.com/udoyhasan) |
-
+| Adi Purnomo | [medival](https://github.com/medival) |
 
 
 
