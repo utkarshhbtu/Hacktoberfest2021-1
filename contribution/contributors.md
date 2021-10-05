@@ -42,11 +42,13 @@
 | Rikky Arisendi | [rikkyarisendi](https://github.com/rikkyarisendi) |
 | Siddhant Pandey | [siddhant094](https://github.com/siddhant094) |
 | Vinz | [vinz15](https://github.com/vinz15) |
+| Chanchal Gupta   | [Chanchal2125](https://github.com/Chanchal2125)
 | Mahir Rohatgi   | [MahirRohatgi18](https://github.com/MahirRohatgi18) |
 | Rizki Sofyan | [rzkfyn](https://github.com/rzkfyn) |
 | Kevin Rivaldo   | [rivaldo15](https://github.com/rivaldo15) |
 | Ichsan Wahyu Pradana   | [prdnaw](https://github.com/prdnaw) |
 | Md Udoy Hasan Orko | [udoyhasan](https://github.com/udoyhasan) |
+
 
 
 
