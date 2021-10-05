@@ -42,6 +42,7 @@
 | Rikky Arisendi | [rikkyarisendi](https://github.com/rikkyarisendi) |
 | Siddhant Pandey | [siddhant094](https://github.com/siddhant094) |
 | Vinz | [vinz15](https://github.com/vinz15) |
+| Zulfikar Ditya | [Zulfikar Ditya](https://github.com/zulfikar-dityaa)
 | Chanchal Gupta   | [Chanchal2125](https://github.com/Chanchal2125)
 | Mahir Rohatgi   | [MahirRohatgi18](https://github.com/MahirRohatgi18) |
 | Rizki Sofyan | [rzkfyn](https://github.com/rzkfyn) |
@@ -49,6 +50,12 @@
 | Ichsan Wahyu Pradana   | [prdnaw](https://github.com/prdnaw) |
 | Md Udoy Hasan Orko | [udoyhasan](https://github.com/udoyhasan) |
 | Talha Masood | [talhamasoodme](https://github.com/talhamasoodme) |
+| Pajri Zahrawaani Ahmad | [pforpajri](https://github.com/pforpajri) |
+| Adi Purnomo | [medival](https://github.com/medival) |
+| Muhammad Syahrur Rahmansyah | [JuniorXcoder](https://github.com/JuniorXcoder) |
+
+
+
 
 
 
