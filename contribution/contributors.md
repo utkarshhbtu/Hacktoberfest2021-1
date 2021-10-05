@@ -42,6 +42,7 @@
 | Siddhant Pandey | [siddhant094](https://github.com/siddhant094) |
 | Vinz | [vinz15](https://github.com/vinz15) |
 | Mahir Rohatgi   | [MahirRohatgi18](https://github.com/MahirRohatgi18)
+| Chanchal Gupta   | [Chanchal2125](https://github.com/Chanchal2125)
 
 
 
