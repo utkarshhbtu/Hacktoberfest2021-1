@@ -52,8 +52,10 @@
 | Talha Masood | [talhamasoodme](https://github.com/talhamasoodme) |
 | Pajri Zahrawaani Ahmad | [pforpajri](https://github.com/pforpajri) |
 | Adi Purnomo | [medival](https://github.com/medival) |
+| Wahid Ari | [wahidari](https://github.com/wahidari) |
 | Muhammad Syahrur Rahmansyah | [JuniorXcoder](https://github.com/JuniorXcoder) |
 | Agung Jaya | [Jay](https://github.com/agungjsp) |
+
 
 
 
