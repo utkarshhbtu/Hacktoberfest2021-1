@@ -1,4 +1,3 @@
-
 # Markdown
 
 | Nama Kontributor |  Nama Akun Github |
@@ -9,6 +8,7 @@
 | Bambang Supriadi |  [bamsarts](https://github.com/bamsarts) |
 | Dodi |  [dodichakill](https://github.com/dodichakill) |
 | Riyana | [Riyana6](https://github.com/Riyana6) |
+| Rizky Tegar Pratama | [rizkytegar](https://github.com/rizkytegar) |
 | Abhilash | [abhilashkpy](https://github.com/abhilashkpy) |
 | Ar Rasyid | [rasyidzkun](https://github.com/rasyidzkun) |
 | Rzhasibuan | [Rzhasibuan](https://github.com/rzhasibuan) |
@@ -60,6 +60,11 @@
 | AthallahDzaki | [AthallahDzaki](https://github.com/AthallahDzaki) |
 | Dimas Anugerah P | [Dimas1402](https://github.com/Dimas1402) |
 | Rizky DPS | [rizkydps](https://github.com/rizkydps) |
+| Hafidz Amrulloh | [hafidzamr](https://github.com/hafidzamr) |
+| Deyooo | [deyooo](https://github.com/deotamaaa) |
+
+
+
 
 
 
