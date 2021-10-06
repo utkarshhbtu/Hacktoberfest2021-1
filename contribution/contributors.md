@@ -59,19 +59,14 @@
 | Fawwaz Abdul Ghani | [Ghani280706](https://github.com/Ghani280706) |
 | AthallahDzaki | [AthallahDzaki](https://github.com/AthallahDzaki) |
 | Dimas Anugerah P | [Dimas1402](https://github.com/Dimas1402) |
+| Vijoy Aliyan| [vijoyaliyan](https://github.com/vijoyaliyan) |
 | Darus Salam Alfatah | [Darus260] (https://github.com/darus260) |
 | Rizky DPS | [rizkydps](https://github.com/rizkydps) |
 | Hafidz Amrulloh | [hafidzamr](https://github.com/hafidzamr) |
 | Deyooo | [deyooo](https://github.com/deotamaaa) |
 | Gavra | [gavrasihombing](https://github.com/gavrasihombing) |
-
-
-
-
-
-
-
-
+| Abhijit Mondal | [abhijitmondal121](https://github.com/abhijitmondal121) |
+| Deepankar Varma | [deepankarvarma](https://github.com/deepankarvarma) |
 
 
 
