@@ -59,6 +59,7 @@
 | Fawwaz Abdul Ghani | [Ghani280706](https://github.com/Ghani280706) |
 | AthallahDzaki | [AthallahDzaki](https://github.com/AthallahDzaki) |
 | Dimas Anugerah P | [Dimas1402](https://github.com/Dimas1402) |
+| Darus Salam Alfatah | [Darus260] (https://github.com/darus260) |
 | Rizky DPS | [rizkydps](https://github.com/rizkydps) |
 | Hafidz Amrulloh | [hafidzamr](https://github.com/hafidzamr) |
 | Deyooo | [deyooo](https://github.com/deotamaaa) |
