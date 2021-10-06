@@ -56,6 +56,7 @@
 | Muhammad Syahrur Rahmansyah | [JuniorXcoder](https://github.com/JuniorXcoder) |
 | Agung Jaya | [Jay](https://github.com/agungjsp) |
 | Aakriti | [aakriti7x7](https://github.com/aakriti7x7) |
+| AthallahDzaki | [AthallahDzaki](https://github.com/AthallahDzaki) |
 
 
 
