@@ -9,6 +9,7 @@
 | Bambang Supriadi |  [bamsarts](https://github.com/bamsarts) |
 | Dodi |  [dodichakill](https://github.com/dodichakill) |
 | Riyana | [Riyana6](https://github.com/Riyana6) |
+| Rizky Tegar Pratama | [rizkytegar](https://github.com/rizkytegar) |
 | Abhilash | [abhilashkpy](https://github.com/abhilashkpy) |
 | Ar Rasyid | [rasyidzkun](https://github.com/rasyidzkun) |
 | Rzhasibuan | [Rzhasibuan](https://github.com/rzhasibuan) |
