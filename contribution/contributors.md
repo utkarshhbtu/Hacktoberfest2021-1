@@ -57,6 +57,7 @@
 | Agung Jaya | [Jay](https://github.com/agungjsp) |
 | Aakriti | [aakriti7x7](https://github.com/aakriti7x7) |
 | AthallahDzaki | [AthallahDzaki](https://github.com/AthallahDzaki) |
+| Dimas Anugerah P | [Dimas1402](https://github.com/Dimas1402) |
 
 
 
