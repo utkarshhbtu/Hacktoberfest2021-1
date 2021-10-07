@@ -60,7 +60,7 @@
 | AthallahDzaki | [AthallahDzaki](https://github.com/AthallahDzaki) |
 | Dimas Anugerah P | [Dimas1402](https://github.com/Dimas1402) |
 | Vijoy Aliyan| [vijoyaliyan](https://github.com/vijoyaliyan) |
-| Darus Salam Alfatah | [Darus260] (https://github.com/darus260) |
+| Darus Salam Alfatah | [Darus260](https://github.com/darus260) |
 | Rizky DPS | [rizkydps](https://github.com/rizkydps) |
 | Hafidz Amrulloh | [hafidzamr](https://github.com/hafidzamr) |
 | Deyooo | [deyooo](https://github.com/deotamaaa) |
@@ -70,7 +70,7 @@
 | Deepankar Varma | [deepankarvarma](https://github.com/deepankarvarma) |
 | Mohit Patel | [Mohit2314](https://github.com/mohit2314) |
 | Armaan Khan | [Armaan2807](https://github.com/Armaan2807)|
-| laughface809 | [laughface809] (https://github.com/laughface809)|
+| laughface809 | [laughface809](https://github.com/laughface809)|
 | Saikat Das | [saikatdgp2001](https://github.com/saikatdgp2001) |
 | Madhav Bhat | [kmadhav907](https://github.com/kmadhav907)|
 | Sumith Kumar| [Sumith Kumar](https://github.com/Sks2000Sks)|
@@ -85,8 +85,11 @@
 | Areeba Rukhsar | [areebarukhsar](https://github.com/areebarukhsar)|
 | Ikhsan Nur | [ikhsan15](https://github.com/ikhsan15)|
 | Yoga Firdaus P | [Yusakha](https://github.com/Yusakha)|
-| Newton Fernandis | [FernandisNewton](https://github.com/FernandisNewton) |
 | Shourya Gupta | [ShouryaBrahmastra](https://github.com/ShouryaBrahmastra)|
+| Newton Fernandis | [FernandisNewton](https://github.com/FernandisNewton) |
+| Af Rizal | [RifkyAfpom](https://github.com/rifkyafpom) |
+| Shourya Gupta | [ShouryaBrahmastra](https://github.com/ShouryaBrahmastra)|
+
 
 
 
