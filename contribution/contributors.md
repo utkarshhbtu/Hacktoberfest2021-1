@@ -83,6 +83,7 @@
 | Rizki Andrianto | [andriana7](https://github.com/andriana7)|
 | Robert Relativo | [lucci06225](https://github.com/lucci06225)|
 | Areeba Rukhsar | [areebarukhsar](https://github.com/areebarukhsar)|
+| Yoga Firdaus P | [Yusakha](https://github.com/Yusakha)|
 
 
 
