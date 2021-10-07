@@ -63,7 +63,7 @@
 | Darus Salam Alfatah | [Darus260] (https://github.com/darus260) |
 | Rizky DPS | [rizkydps](https://github.com/rizkydps) |
 | Hafidz Amrulloh | [hafidzamr](https://github.com/hafidzamr) |
-| Rifky Af Rizal | [RifkyAfpom](https://github.com/rifkyafpom) |
+| Af Rizal | [RifkyAfpom](https://github.com/rifkyafpom) |
 | Deyooo | [deyooo](https://github.com/deotamaaa) |
 | Nehal | [hoplite2000](https://github.com/hoplite2000) |
 | Gavra | [gavrasihombing](https://github.com/gavrasihombing) |
