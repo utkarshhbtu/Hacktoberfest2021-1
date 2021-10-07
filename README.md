@@ -46,29 +46,19 @@ Jika Anda belum pernah berkontribusi ke open source sebelumnya, ini adalah waktu
   
   ---
   
-  # Good Luck
-  Semoga Beruntung Untuk Kamu Yang Sedang Berjuang Untuk Berkontribusi Dalam Event Hacktoberfest 2021, Tetap Semangat Dalam Berkontribusi Demi  Mensukseskan Acara Yang Mendorong Kita Untuk Belajar Open Source
+   # Embed Repository
+
+ ![https://github.com/Faiznurullah/Hacktoberfest2021](https://github-readme-stats.vercel.app/api/pin?username=Faiznurullah&repo=Hacktoberfest2021&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)
   
+  
+ 
    ---
    
-  ## Embed
-
- ![https://github.com/Faiznurullah/Hacktoberfest2021](https://github-readme-stats.vercel.app/api/pin?username=Faiznurullah&repo=Hacktoberfest2021&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)
-  ![https://github.com/Faiznurullah/Hacktoberfest2021](https://github-readme-stats.vercel.app/api/pin/?username=Faiznurullah&repo=Hacktoberfest2021&show_owner=true)
-
-Copy kode dibawah ini kedalam file berformat markdown. contoh [file markdown](https://github.com/Faiznurullah/Hacktoberfest2021/blob/main/README.md)
-
-Dark 
-
-```
- ![https://github.com/Faiznurullah/Hacktoberfest2021](https://github-readme-stats.vercel.app/api/pin?username=Faiznurullah&repo=Hacktoberfest2021&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)
-```
-
-White
-
-```
-  ![https://github.com/Faiznurullah/Hacktoberfest2021](https://github-readme-stats.vercel.app/api/pin/?username=Faiznurullah&repo=Hacktoberfest2021&show_owner=true)
-```
+    # Good Luck
+  Semoga Beruntung Untuk Kamu Yang Sedang Berjuang Untuk Berkontribusi Dalam Event Hacktoberfest 2021, Tetap Semangat Dalam Berkontribusi Demi  Mensukseskan Acara Yang Mendorong Kita Untuk Belajar Open Source
+  
+ 
+---
     
   # Repository Hacktoberfest 2021
   - [https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021)
