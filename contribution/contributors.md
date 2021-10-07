@@ -63,7 +63,6 @@
 | Darus Salam Alfatah | [Darus260](https://github.com/darus260) |
 | Rizky DPS | [rizkydps](https://github.com/rizkydps) |
 | Hafidz Amrulloh | [hafidzamr](https://github.com/hafidzamr) |
-| Af Rizal | [RifkyAfpom](https://github.com/rifkyafpom) |
 | Deyooo | [deyooo](https://github.com/deotamaaa) |
 | Nehal | [hoplite2000](https://github.com/hoplite2000) |
 | Gavra | [gavrasihombing](https://github.com/gavrasihombing) |
@@ -86,6 +85,9 @@
 | Areeba Rukhsar | [areebarukhsar](https://github.com/areebarukhsar)|
 | Ikhsan Nur | [ikhsan15](https://github.com/ikhsan15)|
 | Yoga Firdaus P | [Yusakha](https://github.com/Yusakha)|
+| Shourya Gupta | [ShouryaBrahmastra](https://github.com/ShouryaBrahmastra)|
+| Newton Fernandis | [FernandisNewton](https://github.com/FernandisNewton) |
+| Af Rizal | [RifkyAfpom](https://github.com/rifkyafpom) |
 
 
 
