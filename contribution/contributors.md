@@ -70,6 +70,8 @@
 | Deepankar Varma | [deepankarvarma](https://github.com/deepankarvarma) |
 | Mohit Patel | [Mohit2314](https://github.com/mohit2314) |
 | Armaan Khan | [Armaan2807](https://github.com/Armaan2807)|
+| laughface809 | [laughface809] (https://github.com/laughface809)|
+| Saikat Das | [saikatdgp2001](https://github.com/saikatdgp2001) |
 | Madhav Bhat | [kmadhav907](https://github.com/kmadhav907)|
 | Sumith Kumar| [Sumith Kumar](https://github.com/Sks2000Sks)|
 | laughface809 | [laughface809](https://github.com/laughface809)|
