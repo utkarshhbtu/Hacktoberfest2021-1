@@ -83,7 +83,7 @@
 | Rizki Andrianto | [andriana7](https://github.com/andriana7)|
 | Robert Relativo | [lucci06225](https://github.com/lucci06225)|
 | Areeba Rukhsar | [areebarukhsar](https://github.com/areebarukhsar)|
-
+| Ikhsan Nur | [ikhsan15](https://github.com/ikhsan15)|
 
 
 
