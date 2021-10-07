@@ -85,7 +85,9 @@
 | Areeba Rukhsar | [areebarukhsar](https://github.com/areebarukhsar)|
 | Ikhsan Nur | [ikhsan15](https://github.com/ikhsan15)|
 | Yoga Firdaus P | [Yusakha](https://github.com/Yusakha)|
+| Newton Fernandis | [FernandisNewton](https://github.com/FernandisNewton) |
 | Shourya Gupta | [ShouryaBrahmastra](https://github.com/ShouryaBrahmastra)|
+
 
 
 
