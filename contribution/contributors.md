@@ -75,7 +75,9 @@
 | Madhav Bhat | [kmadhav907](https://github.com/kmadhav907)|
 | Sumith Kumar| [Sumith Kumar](https://github.com/Sks2000Sks)|
 | laughface809 | [laughface809](https://github.com/laughface809)|
+| Aditya Singh Rathore | [adityasrathore](https://github.com/adityasrathore)|
 | Rizki Andrianto | [andriana7](https://github.com/andriana7)|
+
 
 
 
